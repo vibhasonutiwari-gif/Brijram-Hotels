@@ -63,7 +63,7 @@ export const HeritageOverview: React.FC = () => {
             <div className="relative">
               <div className="relative rounded-2xl overflow-hidden shadow-xl border-4 border-white aspect-[4/5] bg-stone-100">
                 <img
-                  src="/src/assets/images/taj_presidential_suite_1791547489154.jpg"
+                  src="/assets/images/taj_presidential_suite_1791547489154.jpg"
                   alt="Historic interiors and grand salons of The Taj Mahal Palace Mumbai"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover"

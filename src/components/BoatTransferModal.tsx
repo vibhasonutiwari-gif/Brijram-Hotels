@@ -25,7 +25,7 @@ export const BoatTransferModal: React.FC<BoatTransferModalProps> = ({
         {/* Header with image banner */}
         <div className="relative h-48 bg-stone-900 overflow-hidden">
           <img
-            src="/src/assets/images/brijrama_boat_ghat_arrival_1791545938114.jpg"
+            src="/assets/images/brijrama_boat_ghat_arrival_1791545938114.jpg"
             alt="Royal Bajra boat arriving at Darbhanga Ghat"
             referrerPolicy="no-referrer"
             className="w-full h-full object-cover"

@@ -40,7 +40,7 @@ export const DiningSection: React.FC<DiningSectionProps> = ({ onReserveTable }) 
           <div className="grid grid-cols-1 lg:grid-cols-12 items-stretch">
             <div className="lg:col-span-7 h-72 sm:h-96 relative bg-stone-900">
               <img
-                src="/src/assets/images/darbhanga_dining_hall_1791545820707.jpg"
+                src="/assets/images/darbhanga_dining_hall_1791545820707.jpg"
                 alt="Darbhanga signature dining hall at BrijRama Palace Varanasi"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover"

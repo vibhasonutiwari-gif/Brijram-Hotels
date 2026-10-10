@@ -39,21 +39,21 @@ export const VirtualTourModal: React.FC<VirtualTourModalProps> = ({
     {
       id: 'river-jharokha',
       name: 'Ganges Riverfront Jharokha Seat',
-      image: '/src/assets/images/varuna_river_suite_1791545789857.jpg',
+      image: '/assets/images/varuna_river_suite_1791545789857.jpg',
       description:
         'Framed view over the sacred river Ganges and morning boat flotillas through original 19th-century carved sandstone lattice jaalis.',
     },
     {
       id: 'living-salon',
       name: 'Royal Butler & Living Salon',
-      image: '/src/assets/images/maharaja_suite_palace_1791545804315.jpg',
+      image: '/assets/images/maharaja_suite_palace_1791545804315.jpg',
       description:
         'The private entertaining salon with antique crystal chandeliers, teak ceilings, and woven heritage rugs.',
     },
     {
       id: 'heritage-corridor',
       name: 'Palace Bastion & Courtyard View',
-      image: '/src/assets/images/brijrama_mayur_mahal_1791545926244.jpg',
+      image: '/assets/images/brijrama_mayur_mahal_1791545926244.jpg',
       description:
         'Tranquil vantage looking into the serene sunlit inner courtyard where live sitar melodies resonate at dusk.',
     },

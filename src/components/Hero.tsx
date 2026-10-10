@@ -16,7 +16,7 @@ export const Hero: React.FC<HeroProps> = ({ onBookClick, onExploreSuites }) => {
           {/* Riverfront Hero Photography */}
           <div className="relative h-[540px] sm:h-[620px] lg:h-[700px] w-full overflow-hidden">
             <img
-              src="/src/assets/images/brijrama_palace_hero_1791545779534.jpg"
+              src="/assets/images/brijrama_palace_hero_1791545779534.jpg"
               alt="BrijRama Palace Varanasi on Darbhanga Ghat along the sacred Ganges river at sunrise"
               referrerPolicy="no-referrer"
               loading="eager"
